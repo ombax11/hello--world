@@ -6,8 +6,8 @@ i love code and coffe
 <!DOCTYPE html>
 <html>
 <head>
-<title>try first ptoject</title>
-<body>
+
+<body><title>try first project</title>
 <h1> no idea </h1>
 
 
