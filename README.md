@@ -2,7 +2,7 @@
 my first try project
 hello 
 i love code and coffe
-<!--
+<!-- im gonna need an idea -->
 <!DOCTYPE html>
 <html>
 <head>
